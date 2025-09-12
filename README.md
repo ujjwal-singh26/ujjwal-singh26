@@ -33,7 +33,7 @@ A passionate Computer Science Undergraduate || Full Stack Developer
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ujjwal-singh26&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## For Collaboration/Project: 
+## For Project Contributions: 
 
 Email Me ✉ **singhujjwal1703@gmail.com**
 
