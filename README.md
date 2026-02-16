@@ -1,13 +1,29 @@
 # Hi , I'm Ujjwal Singh  
-A passionate Computer Science Undergraduate || Full Stack Developer
 
-- 🔭 **I’m currently working on:** Real-time Chat Application (Connectify), Image Enhancing Software (ImageCraft), Interactive Blogging Platform (BlogSphere)
-- 🌱 **I’m currently learning:** REST APIs, Advanced Full Stack Development, Machine Learning  
-- 👯 **I’m looking to collaborate on:** MERN Stack Web Applications & AI-powered Projects  
-- 🤔 **I’m looking for help with:** Optimizing real-time apps & scaling ML workflows  
-- 💬 **Ask me about:** Full Stack Development, C++, Problem Solving, Hackathons  
-- 😄 **Pronouns:** He/Him  
-- ⚡ **Fun fact:** I enjoy Vibe-Coding 🎧, Traveling ✈️ 
+🔭 Currently Working On:
+Scalable MERN Stack Applications – Connectify (Real-Time Chat App), ImageCraft (Smart Photo Enhancement Tool), and BlogSphere (Interactive Blogging Platform)
+
+🌱 Currently Learning:
+Advanced Data Structures & Algorithms, System Design Basics, and Scalable REST API Architecture
+
+👯 Looking to Collaborate On:
+MERN Stack Projects, Real-Time Web Applications, and Open-Source Development
+
+🤔 Seeking Help With:
+Application Scaling, Backend Optimization, and Performance Improvement in Full Stack Apps
+
+💬 Ask Me About:
+C++, Data Structures & Algorithms, DBMS, OOP, MERN Stack Development, Problem Solving
+
+🏆 Achievements:
+• Solved 300+ problems on LeetCode
+• 5⭐ in Problem Solving on HackerRank
+• Winner – BlindCode Hackathon
+• Certified in Programming Fundamentals (Infosys Springboard)
+
+😄 Pronouns: He/Him
+
+⚡ Fun Fact: I enjoy Competitive Coding, Hackathons, and Building Real-Time Applications 🚀
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
