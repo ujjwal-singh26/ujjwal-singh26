@@ -1,7 +1,7 @@
 # Hi , I'm Ujjwal Singh  
 A passionate Computer Science Undergraduate || Full Stack Developer
 
-- 🔭 **I’m currently working on:** Real-time Chat Application (Connectify), Image Enhancing Software (PixoraAI), Gesture Control System (AirPointer)  
+- 🔭 **I’m currently working on:** Real-time Chat Application (Connectify), Image Enhancing Software (ImageCraft), Interactive Blogging Platform (BlogSphere)
 - 🌱 **I’m currently learning:** REST APIs, Advanced Full Stack Development, Machine Learning  
 - 👯 **I’m looking to collaborate on:** MERN Stack Web Applications & AI-powered Projects  
 - 🤔 **I’m looking for help with:** Optimizing real-time apps & scaling ML workflows  
